@@ -1,4 +1,4 @@
-package main.scala.digitparser
+package com.jtfmumm.digitparser
 
 class DigitParser[N](zero: N, succ: N => N) {
   def parse(d: String): N = {

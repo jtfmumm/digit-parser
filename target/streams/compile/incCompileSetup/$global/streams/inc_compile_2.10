@@ -20,17 +20,17 @@ name hashing:
 0 -> true
 products:
 7 items
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/DigitParser$$anonfun$cleanString$1.class
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/DigitParser$$anonfun$isZeroString$1.class
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/DigitParser$$anonfun$pred$1.class
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/DigitParser.class
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/StandardParser$$anonfun$1.class
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/StandardParser$.class
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/StandardParser.class
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/com/jtfmumm/digitparser/DigitParser$$anonfun$cleanString$1.class
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/com/jtfmumm/digitparser/DigitParser$$anonfun$isZeroString$1.class
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/com/jtfmumm/digitparser/DigitParser$$anonfun$pred$1.class
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/com/jtfmumm/digitparser/DigitParser.class
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/com/jtfmumm/digitparser/StandardParser$$anonfun$1.class
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/com/jtfmumm/digitparser/StandardParser$.class
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/com/jtfmumm/digitparser/StandardParser.class
 binary dependencies:
 2 items
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/rt.jar
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> /Users/jmumm/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> /Users/jmumm/.sbt/boot/scala-2.10.4/lib/scala-library.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -49,83 +49,84 @@ inheritance external dependencies:
 0 items
 class names:
 7 items
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> main.scala.digitparser.DigitParser
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> main.scala.digitparser.DigitParser$$anonfun$cleanString$1
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> main.scala.digitparser.DigitParser$$anonfun$isZeroString$1
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> main.scala.digitparser.DigitParser$$anonfun$pred$1
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> main.scala.digitparser.StandardParser
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> main.scala.digitparser.StandardParser$
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> main.scala.digitparser.StandardParser$$anonfun$1
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> com.jtfmumm.digitparser.DigitParser
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> com.jtfmumm.digitparser.DigitParser$$anonfun$cleanString$1
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> com.jtfmumm.digitparser.DigitParser$$anonfun$isZeroString$1
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> com.jtfmumm.digitparser.DigitParser$$anonfun$pred$1
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> com.jtfmumm.digitparser.StandardParser
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> com.jtfmumm.digitparser.StandardParser$
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> com.jtfmumm.digitparser.StandardParser$$anonfun$1
 used names:
-56 items
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> +
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> ->
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> ::
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> <init>
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> ==
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> Any
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> AnyRef
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> Char
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> DigitParser
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> Exception
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> Function1
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> Int
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> List
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> Map
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> N
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> None
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> Nothing
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> Predef
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> StandardParser
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> String
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> _root_
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> any2ArrowAssoc
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> apply
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> asInstanceOf
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> augmentString
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> baseTenPreds
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> cleanString
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> cur
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> d
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> digitparser
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> dropWhile
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> forall
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> get
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> head
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> intParser
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> isInstanceOf
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> isZeroString
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> l
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> loop
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> lst
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> main
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> mkString
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> n
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> package
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> parse
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> pred
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> predMap
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> reverse
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> s
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> scala
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> succ
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> tail
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> toList
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> x
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> z
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> zero
+57 items
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> +
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> ->
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> ::
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> <init>
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> ==
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> Any
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> AnyRef
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> Char
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> DigitParser
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> Exception
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> Function1
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> Int
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> List
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> Map
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> N
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> None
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> Nothing
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> Predef
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> StandardParser
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> String
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> _root_
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> any2ArrowAssoc
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> apply
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> asInstanceOf
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> augmentString
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> baseTenPreds
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> cleanString
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> com
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> cur
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> d
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> digitparser
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> dropWhile
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> forall
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> get
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> head
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> intParser
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> isInstanceOf
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> isZeroString
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> jtfmumm
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> l
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> loop
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> lst
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> mkString
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> n
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> package
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> parse
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> pred
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> predMap
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> reverse
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> s
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> scala
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> succ
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> tail
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> toList
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> x
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> z
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> zero
 product stamps:
 7 items
-/Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/DigitParser$$anonfun$cleanString$1.class -> lastModified(1436217323000)
-/Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/DigitParser$$anonfun$isZeroString$1.class -> lastModified(1436217323000)
-/Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/DigitParser$$anonfun$pred$1.class -> lastModified(1436217323000)
-/Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/DigitParser.class -> lastModified(1436217323000)
-/Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/StandardParser$$anonfun$1.class -> lastModified(1436217323000)
-/Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/StandardParser$.class -> lastModified(1436217323000)
-/Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/StandardParser.class -> lastModified(1436217323000)
+/Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/com/jtfmumm/digitparser/DigitParser$$anonfun$cleanString$1.class -> lastModified(1436220688000)
+/Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/com/jtfmumm/digitparser/DigitParser$$anonfun$isZeroString$1.class -> lastModified(1436220688000)
+/Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/com/jtfmumm/digitparser/DigitParser$$anonfun$pred$1.class -> lastModified(1436220688000)
+/Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/com/jtfmumm/digitparser/DigitParser.class -> lastModified(1436220688000)
+/Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/com/jtfmumm/digitparser/StandardParser$$anonfun$1.class -> lastModified(1436220688000)
+/Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/com/jtfmumm/digitparser/StandardParser$.class -> lastModified(1436220688000)
+/Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/com/jtfmumm/digitparser/StandardParser.class -> lastModified(1436220688000)
 source stamps:
 1 items
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> hash(a4569d3a9939b11d7c6fabdefa61e82ac753efe4)
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> hash(994451ac656432c0856e84f01d8eb786c4fcace1)
 binary stamps:
 2 items
 /Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1399493098000)
@@ -133,18 +134,19 @@ binary stamps:
 class names:
 2 items
 /Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
-/Users/jmumm/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.None$
+/Users/jmumm/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.Function1
 internal apis:
 1 items
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBIYl8MAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cEehuH10AAZub3RpZnlzcQB+AAw/7Z0tdAAHcHJlZE1hcHNxAH4ADP/Imy50AAR3YWl0c3EAfgAMLgwgLXQADSRhc0luc3RhbmNlT2ZzcQB+AAwGzQsndAAGZXF1YWxzc3EAfgAMXJisrnQABHN1Y2NzcQB+AAzvJ9WXdAAMYXNJbnN0YW5jZU9mc3EAfgAM6qevaHQAC0RpZ2l0UGFyc2Vyc3EAfgAMttZqsXQADHN5bmNocm9uaXplZHNxAH4ADAC++zB0AA0kaXNJbnN0YW5jZU9mc3EAfgAMlfOLKnQADGlzWmVyb1N0cmluZ3NxAH4ADMPzwR10AAlub3RpZnlBbGxzcQB+AAzhfeJ5dAAEcHJlZHNxAH4ADEeyQsN0AAxpc0luc3RhbmNlT2ZzcQB+AAz1N0ZKdAAGPGluaXQ+c3EAfgAM0pG2eHQABXBhcnNlc3EAfgAMGRxGnHQAAj09c3EAfgAM7gaDTHQABWNsb25lc3EAfgAM2jT/vHQACHRvU3RyaW5nc3EAfgAMHXMhvnQAAiE9c3EAfgAMylkID3QACWludFBhcnNlcnNxAH4ADLC9pdl0AAhnZXRDbGFzc3NxAH4ADL+3HFp0AA5TdGFuZGFyZFBhcnNlcnNxAH4ADGaKP0t0AAJuZXNxAH4ADDIAMt50AAJlcXNxAH4ADARftcx0AAIjI3NxAH4ADDF/PSh0AAhmaW5hbGl6ZXNxAH4ADOiVtVh0AAxiYXNlVGVuUHJlZHNzcQB+AAw0r5S/dAABenNxAH4ADCwbH850AAhoYXNoQ29kZXNxAH4ADNnH1P50AAtjbGVhblN0cmluZ3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACJtYWluLnNjYWxhLmRpZ2l0cGFyc2VyLkRpZ2l0UGFyc2VydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAFzcgAXeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXJnaVXb43KQawIABlsAC2Fubm90YXRpb25zcQB+AFpMAAJpZHEAfgANTAAKbG93ZXJCb3VuZHQAEEx4c2J0aS9hcGkvVHlwZTtbAA50eXBlUGFyYW1ldGVyc3EAfgBXTAAKdXBwZXJCb3VuZHEAfgBoTAAIdmFyaWFuY2V0ABRMeHNidGkvYXBpL1ZhcmlhbmNlO3hwdXEAfgBgAAAAAHQAJG1haW4uc2NhbGEuZGlnaXRwYXJzZXIuRGlnaXRQYXJzZXIuTnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdOb3RoaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBvc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB8dXEAfgBlAAAAAHNxAH4AbXQAA0FueXEAfgB1fnIAEnhzYnRpLmFwaS5WYXJpYW5jZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACUludmFyaWFudH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhxAH4AhXQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Ajnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4Ab3NxAH4AjQBwc3EAfgCSc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFVMAAlpbmhlcml0ZWRxAH4AVUwAB3BhcmVudHNxAH4AVXhxAH4AcHNxAH4AjQBwc3EAfgCSdXEAfgBQAAAAAHNxAH4AjQBwc3EAfgCSdXEAfgBQAAAAAHNxAH4AjQBwc3EAfgCSdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcQB+AG10AAZPYmplY3RzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7dAAEamF2YXNxAH4Ae3QABGxhbmdxAH4AgHNxAH4AbXEAfgCDc3EAfgBzc3EAfgB2dXEAfgB5AAAAAnNxAH4Ae3EAfgB+cQB+AIBzcQB+AFJxAH4AX3VxAH4AYAAAAABzcQB+AGIAdAAlbWFpbi5zY2FsYS5kaWdpdHBhcnNlci5TdGFuZGFyZFBhcnNlcnVxAH4AZQAAAAB+cQB+AIh0AAZNb2R1bGV1cQB+AIsAAAAAc3EAfgCNAHBzcQB+AJJxAH4AlXNxAH4AjQBwc3EAfgCSc3EAfgCYc3EAfgCNAHBzcQB+AJJ1cQB+AFAAAAAAc3EAfgCNAHBzcQB+AJJ1cQB+AFAAAAAAc3EAfgCNAHBzcQB+AJJ1cQB+AKIAAAACc3EAfgBtcQB+AKVzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7cQB+AKpzcQB+AHtxAH4ArHEAfgCAc3EAfgBtcQB+AINzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7cQB+AH5xAH4AgHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABG1haW5zcQB+ANV0ABZtYWluLnNjYWxhLmRpZ2l0cGFyc2Vyc3EAfgDVdAAKbWFpbi5zY2FsYXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmU5J/51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA9L1VzZXJzL2ptdW1tL2Rldi9zY2FsYS9kaWdpdC1wYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFKRWnTqZObEdfG+r3vph6CrHU+/k
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD2XHo6AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cIgbool0AAZub3RpZnlzcQB+AAzhBFxTdAAHcHJlZE1hcHNxAH4ADMjv76F0AAR3YWl0c3EAfgAMbrF84nQADSRhc0luc3RhbmNlT2ZzcQB+AAxtjsIxdAAGZXF1YWxzc3EAfgAMMa/ePXQABHN1Y2NzcQB+AAx25AivdAAMYXNJbnN0YW5jZU9mc3EAfgAM1+UgaXQAC0RpZ2l0UGFyc2Vyc3EAfgAM+7Q503QADHN5bmNocm9uaXplZHNxAH4ADGI7p150AA0kaXNJbnN0YW5jZU9mc3EAfgAMY0RKTXQADGlzWmVyb1N0cmluZ3NxAH4ADAMinBR0AAlub3RpZnlBbGxzcQB+AAxP5cKrdAAEcHJlZHNxAH4ADB2mdtR0AAxpc0luc3RhbmNlT2ZzcQB+AAyvhkB4dAAGPGluaXQ+c3EAfgAMB2WVZnQABXBhcnNlc3EAfgAMDL3Ku3QAAj09c3EAfgAMBBtw53QABWNsb25lc3EAfgAMve1aRHQACHRvU3RyaW5nc3EAfgAMa1yPunQAAiE9c3EAfgAMaNxIunQACWludFBhcnNlcnNxAH4ADOunR7V0AAhnZXRDbGFzc3NxAH4ADDNDDhB0AA5TdGFuZGFyZFBhcnNlcnNxAH4ADO3AzVZ0AAJuZXNxAH4ADB2RHOp0AAJlcXNxAH4ADLkOsod0AAIjI3NxAH4ADIlnaSR0AAhmaW5hbGl6ZXNxAH4ADDNbC2B0AAxiYXNlVGVuUHJlZHNzcQB+AAxaTMs8dAABenNxAH4ADEieWE10AAhoYXNoQ29kZXNxAH4ADASfx4p0AAtjbGVhblN0cmluZ3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACNjb20uanRmbXVtbS5kaWdpdHBhcnNlci5EaWdpdFBhcnNlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAABc3IAF3hzYnRpLmFwaS5UeXBlUGFyYW1ldGVyZ2lV2+NykGsCAAZbAAthbm5vdGF0aW9uc3EAfgBaTAACaWRxAH4ADUwACmxvd2VyQm91bmR0ABBMeHNidGkvYXBpL1R5cGU7WwAOdHlwZVBhcmFtZXRlcnNxAH4AV0wACnVwcGVyQm91bmRxAH4AaEwACHZhcmlhbmNldAAUTHhzYnRpL2FwaS9WYXJpYW5jZTt4cHVxAH4AYAAAAAB0ACVjb20uanRmbXVtbS5kaWdpdHBhcnNlci5EaWdpdFBhcnNlci5Oc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQAB05vdGhpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHx1cQB+AGUAAAAAc3EAfgBtdAADQW55cQB+AHV+cgASeHNidGkuYXBpLlZhcmlhbmNlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAJSW52YXJpYW50fnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHEAfgCFdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCOeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHEAfgBvc3EAfgCNAHBzcQB+AJJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AVUwACWluaGVyaXRlZHEAfgBVTAAHcGFyZW50c3EAfgBVeHEAfgBwc3EAfgCNAHBzcQB+AJJ1cQB+AFAAAAAAc3EAfgCNAHBzcQB+AJJ1cQB+AFAAAAAAc3EAfgCNAHBzcQB+AJJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNxAH4AbXQABk9iamVjdHNxAH4Ac3NxAH4AdnVxAH4AeQAAAANzcQB+AHt0AARqYXZhc3EAfgB7dAAEbGFuZ3EAfgCAc3EAfgBtcQB+AINzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7cQB+AH5xAH4AgHNxAH4AUnEAfgBfdXEAfgBgAAAAAHNxAH4AYgB0ACZjb20uanRmbXVtbS5kaWdpdHBhcnNlci5TdGFuZGFyZFBhcnNlcnVxAH4AZQAAAAB+cQB+AIh0AAZNb2R1bGV1cQB+AIsAAAAAc3EAfgCNAHBzcQB+AJJxAH4AlXNxAH4AjQBwc3EAfgCSc3EAfgCYc3EAfgCNAHBzcQB+AJJ1cQB+AFAAAAAAc3EAfgCNAHBzcQB+AJJ1cQB+AFAAAAAAc3EAfgCNAHBzcQB+AJJ1cQB+AKIAAAACc3EAfgBtcQB+AKVzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7cQB+AKpzcQB+AHtxAH4ArHEAfgCAc3EAfgBtcQB+AINzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7cQB+AH5xAH4AgHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAF2NvbS5qdGZtdW1tLmRpZ2l0cGFyc2Vyc3EAfgDVdAALY29tLmp0Zm11bW1zcQB+ANV0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU5lbIH+dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPS9Vc2Vycy9qbXVtbS9kZXYvc2NhbGEvZGlnaXQtcGFyc2VyL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSZRFGsZWQywIVuhPAdjreGxPys4Q==
 external apis:
 0 items
 source infos:
 1 items
-/Users/jmumm/dev/scala/digit-parser/src/main/scala/digitparser/DigitParser.scala -> 
+/Users/jmumm/dev/scala/digit-parser/src/main/scala/com.jtfmumm/digitparser/DigitParser.scala -> 
 AAAAAAAAAAA=
 compilations:
-2 items
+3 items
 0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmOf2Ed1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9Vc2Vycy9qbXVtbS9kZXYvc2NhbGEvZGlnaXQtcGFyc2VyL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
 1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmU5J/51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9Vc2Vycy9qbXVtbS9kZXYvc2NhbGEvZGlnaXQtcGFyc2VyL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmVsgf51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9Vc2Vycy9qbXVtbS9kZXYvc2NhbGEvZGlnaXQtcGFyc2VyL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
