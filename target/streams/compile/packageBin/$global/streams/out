@@ -1,0 +1,23 @@
+[0m[[0minfo[0m] [0mPackaging /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/digit-parser_2.10-0.1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	main/scala/digitparser/DigitParser$$anonfun$cleanString$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/DigitParser$$anonfun$cleanString$1.class[0m
+[0m[[0mdebug[0m] [0m	main[0m
+[0m[[0mdebug[0m] [0m	  /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main[0m
+[0m[[0mdebug[0m] [0m	main/scala/digitparser/StandardParser$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/StandardParser$.class[0m
+[0m[[0mdebug[0m] [0m	main/scala/digitparser/DigitParser$$anonfun$isZeroString$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/DigitParser$$anonfun$isZeroString$1.class[0m
+[0m[[0mdebug[0m] [0m	main/scala/digitparser[0m
+[0m[[0mdebug[0m] [0m	  /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser[0m
+[0m[[0mdebug[0m] [0m	main/scala/digitparser/DigitParser$$anonfun$pred$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/DigitParser$$anonfun$pred$1.class[0m
+[0m[[0mdebug[0m] [0m	main/scala/digitparser/StandardParser$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/StandardParser$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	main/scala/digitparser/DigitParser.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/DigitParser.class[0m
+[0m[[0mdebug[0m] [0m	main/scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala[0m
+[0m[[0mdebug[0m] [0m	main/scala/digitparser/StandardParser.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jmumm/dev/scala/digit-parser/target/scala-2.10/classes/main/scala/digitparser/StandardParser.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

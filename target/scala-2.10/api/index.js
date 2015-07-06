@@ -1,0 +1,1 @@
+Index.PACKAGES = {"main" : [], "main.scala" : [], "main.scala.digitparser" : [{"class" : "main\/scala\/digitparser\/DigitParser.html", "name" : "main.scala.digitparser.DigitParser"}, {"object" : "main\/scala\/digitparser\/StandardParser$.html", "name" : "main.scala.digitparser.StandardParser"}]};
