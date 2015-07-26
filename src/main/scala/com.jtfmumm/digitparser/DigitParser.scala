@@ -5,13 +5,13 @@ class DigitParser[N](zero: N, succ: N => N) {
     def loop(n: String, cur: N): N = {
       if (isZeroString(n)) return cur
 
-      loop(pred(n), succ(cur))
+      loop(stringPred(n), succ(cur))
     }
 
     loop(d, zero)
   }
 
-  def pred(d: String): String = {
+  private def stringPred(d: String): String = {
     val lst = d.reverse.toList
     if (lst.forall(_ == '0')) return "0"
 
