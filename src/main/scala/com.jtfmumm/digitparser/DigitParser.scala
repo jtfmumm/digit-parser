@@ -2,10 +2,10 @@ package com.jtfmumm.digitparser
 
 class DigitParser[N](zero: N, succ: N => N) {
   def parse(d: String): N = {
-    def loop(n: String, cur: N): N = {
-      if (isZeroString(n)) return cur
+    def loop(s: String, cur: N): N = {
+      if (isZeroString(s)) return cur
 
-      loop(stringPred(n), succ(cur))
+      loop(stringPred(s), succ(cur))
     }
 
     loop(d, zero)
